@@ -1,7 +1,7 @@
 # Proyecto-Corestream
 
 Elementos requerido en readme:
-- Nombre del proyecto 
+- Nombre del proyecto ✅
 - Descripción: qué hace, a quién va dirigido, qué problema resuelve 
 - Tecnologías utilizadas (lenguajes, frameworks, base de datos, cloud) 
 - Instrucciones para ejecutar el proyecto localmente 
